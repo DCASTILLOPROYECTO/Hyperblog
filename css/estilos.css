@@ -5,3 +5,23 @@ body
     font-family: fantasy;
 
 }
+
+#container
+{
+width: 100%;
+text-align: center;
+padding: 1 px;
+margin: auto;
+border-color: darkblue;
+
+
+
+}
+
+#container h1 {
+
+font-size: 20 px;
+
+
+
+}
