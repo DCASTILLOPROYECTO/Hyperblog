@@ -44,6 +44,7 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+
 #container h1
 {
     font-size: 20px;
@@ -54,3 +55,12 @@ body
     padding: 1em;
 }
 
+#footer 
+{
+ background-color: rgb(18, 7, 119);   
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 20px;
+ text-align: center;
+ color: rgb(233, 233, 243);
+ padding: 0.5em;
+}
